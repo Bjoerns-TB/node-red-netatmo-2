@@ -885,11 +885,11 @@
         "id": "b71bfc6f.5b329",
         "type": "configNode",
         "z": "",
-        "client_id": "59710e41e8ede19f528b4b93",
-        "client_secret": "TcTyspqAOcfPbVmhHhAmwbVIA",
-        "username": "fuagunn@googlemail.com",
-        "password": "Moppel123",
-        "device_id": "70:ee:50:00:a8:02"
+        "client_id": "yourclientid",
+        "client_secret": "yourclientsecret",
+        "username": "youremail",
+        "password": "yourpassword",
+        "device_id": "yourdeviceid"
     },
     {
         "id": "18f5a3cf.c12dbc",
